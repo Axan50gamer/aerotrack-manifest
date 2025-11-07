@@ -1,0 +1,37 @@
+{
+  "name": "AeroTrack",
+  "short_name": "AeroTrack",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004080",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Track aircraft parts using NFC tags with AeroTrack.",
+  "icons": [
+    {
+      "src": "https://xhtujeunbnbihdfcyrje.supabase.co/storage/v1/object/public/base44.prod/9a7410a68_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://xhtujeunbnbihdfcyrje.supabase.co/storage/v1/object/public/base44.prod/ChatGPT%20Image%20Oct%2029,%202025,%2003_32_48%20PM.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://xhtujeunbnbihdfcyrje.supabase.co/storage/v1/object/public/base44.prod/Copilot_20251107_131929.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://xhtujeunbnbihdfcyrje.supabase.co/storage/v1/object/public/base44.prod/Copilot_20251107_131932.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "monochrome"
+    }
+  ],
+  "lang": "en",
+  "dir": "ltr"
+}
